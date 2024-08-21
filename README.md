@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reemaalwa
 - 👀 I’m interested in learning about the software world!
-- 🌱 I’m currently learning JAVA  
+- 🌱 I’m currently learning C++  
 - 📫 Reach me at Reemaalwadi427@gmail.com or through linkedin Reema Alwadi
 - 😄 Pronouns: She/Her
 
